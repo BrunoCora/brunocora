@@ -20,7 +20,11 @@
     .blog_search_content h2, 
     .blog_search_content h1{
         margin-bottom: 10px;
-    }
+   }
+
+   .texto_newsletter{
+        font-size: 20px;
+   }
 }
 @media only screen and (max-width: 1200px) {
     .container{
