@@ -144,6 +144,10 @@
 
 @media only screen and (max-width: 768px) {  
     
+    .container{
+        padding: 0px;
+    }
+
     .blog_footer{
         display: none;
     }
@@ -285,7 +289,7 @@
     }
 
     .bonus_each img{
-        max-width: 100px;
+        max-width: 145px;
     }
 
     .bonus_each_text{
@@ -303,7 +307,7 @@
     }
     
     .bonus_each_text .texto{
-        font-size: 14px;
+        font-size: 12px;
     }
 
 
